@@ -1,5 +1,11 @@
 # Protheus Email Lab
 
+<br />
+
+**English** &nbsp;|&nbsp; [Português (Brasil)](README.pt-BR.md)
+
+<br />
+
 ADVPL examples for sending emails from TOTVS Protheus — SMTP integration, HTML templates, and file attachments.
 
 > **Disclaimer**: Educational examples. All server addresses, credentials, and email accounts are fictional.
